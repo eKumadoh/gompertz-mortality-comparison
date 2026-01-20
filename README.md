@@ -7,7 +7,7 @@ The project focuses on fitting and evaluating the classical Gompertz mortality m
 
 📌 Only code is provided. Numerical results and interpretations are intentionally excluded, as further analysis and manuscript preparation are ongoing.
 
-_ Data Description
+-  Data Description
 
 Input data consist of life table indicators obtained from publicly available demographic sources.
 
@@ -17,7 +17,7 @@ Key variables include:
 
   - nqx: probability of dying
 
-  -lx, ndx, nLx, Tx, ex
+  - lx, ndx, nLx, Tx, ex
 
 Analysis focuses on both sexes combined
 
@@ -29,33 +29,33 @@ Adult ages are defined as age ≥ 30 years
 
 The code is structured to analyze the following countries independently:
 
--Argentina
+- Argentina
 
--Brazil
+- Brazil
 
--Canada
+- Canada
 
--China
+- China
 
--France
+- France
 
--Ghana
+- Ghana
 
--India
+- India
 
--Mexico
+- Mexico
 
--South Africa
+- South Africa
 
--Spain
+- Spain
 
--United Kingdom
+- United Kingdom
 
--United States
+- United States
 
--Venezuela
+- Venezuela
 
 # Mortality Models
--Gompertz Model
+- Gompertz Model
 - Polynomial Model of Order 6
 
